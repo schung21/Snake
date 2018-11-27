@@ -3,7 +3,7 @@
 A simple snake game with a bit of twist. Enjoy!
 
 <p align="center">
-  <img src = <img src="https://i.ibb.co/tLZZwX0/snakeypng.png" alt="snakeypng" border="0"></a>
+  <img src = "https://i.ibb.co/tLZZwX0/snakeypng.png">
        </p>
 
 ## Instructions
