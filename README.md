@@ -3,17 +3,17 @@
 A simple snake game with a bit of twist. Enjoy!
 
 <p align="center">
-  <img src = "https://i.ibb.co/ThnP5ss/snake1.png" alt="snake1" border="0"></a>
+  <img src = <img src="https://i.ibb.co/tLZZwX0/snakeypng.png" alt="snakeypng" border="0"></a>
        </p>
 
 ## Instructions
 
-1. Reach 50 points to beat the game.
-2. Colliding with yourself, the wall, or a bomb will result in a game over.
-3. Every apple eaten has a chance to spawn a bomb.
-4. Press 'A' to perform a short dash to move faster.
-5. After 30 points one more apple will appear for the player to get extra points.
-6. 'Space' will restart the game anytime. 
+1. Collect blue blocks and reach 50 points to beat the game
+2. Colliding with yourself, the wall, or a red block will result in a game over
+3. Every score has a chance to spawn a red block
+4. Press 'A' to perform a short dash to move faster
+5. After 30 points one more blue block will appear for the player to get extra points
+6. 'Space' will restart the game anytime.
 
 ### Installing
 
